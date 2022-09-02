@@ -9,13 +9,13 @@
 #include <Wire.h>
 #include <DHT.h>
 
-#define FIREBASE_HOST "coalminers-47-default-rtdb.firebaseio.com"
-#define FIREBASE_AUTH "SlSg9LDxoCR0gSfhz4j6ohO2QcnVW2AyzS00ptis"
-#define WIFI_SSID "Redmi"
-#define WIFI_PASSWORD "skamalesh"
-#define WIFI_AP "Redmi"
-#define WIFI_PASSWORD "skamalesh"
-#define TOKEN "37J7ap4gFOvPcQIp0qRR"
+#define FIREBASE_HOST "your id.firebaseio.com"
+#define FIREBASE_AUTH "pass"
+#define WIFI_SSID "name"
+#define WIFI_PASSWORD "pass"
+#define WIFI_AP "name"
+#define WIFI_PASSWORD "pass"
+#define TOKEN "ID"
 char thingsboardServer[] = "demo.thingsboard.io";
 
 WiFiClient wifiClient;
